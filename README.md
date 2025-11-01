@@ -1,0 +1,2 @@
+# applications
+Job applications organizer
